@@ -1,3 +1,22 @@
+/*
+------------------------------------------------------------------------------------------------
+ * Seyon Krishnakumar - 0508305
+ * COIS 2240 - Assignment 1
+ ------------------------------------------------------------------------------------------------
+ * Assignment Outline:
+ * 
+ * takes user input for integer n
+ * calculates & prints Fibonacci Series up to the nth term
+ * Fibonacci calculation & printing done twice - recursively & iteratively
+ * recursive calculation done with fiboSeriesRec()
+ * iterative calculation done with fiboSeriesIte()
+ * runtime for each method is printed
+ --------------------------------------------------------------------------------------------------
+ * References:
+ * https://www.sanfoundry.com/c-program-fibonacci-number-using-recursion/
+ * http://www.java-fries.com/2014/11/nth-fibonacci-number-java/
+---------------------------------------------------------------------------------------------------
+ */
 import java.util.Scanner;
 
 public class Main {
